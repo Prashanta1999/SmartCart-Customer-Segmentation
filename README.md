@@ -134,3 +134,8 @@ SmartCart-Clustering-System/
 ├── smartcart_clustering.ipynb
 ├── README.md
 └── .gitignore
+
+## Author
+
+**Prashanta Chowdhury**  
+Aspiring AI/ML Engineer | Data Science Enthusiast  
