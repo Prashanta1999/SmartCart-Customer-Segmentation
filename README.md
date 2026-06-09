@@ -135,6 +135,8 @@ SmartCart-Clustering-System/
 ├── README.md
 └── .gitignore
 
+```
+
 ## Author
 
 **Prashanta Chowdhury**  
